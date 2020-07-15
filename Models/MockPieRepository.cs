@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace BethanyPieShop.model
+namespace BethanyPieShop.Models
 {
     public class MockPieRepository : IPieRepository
     {

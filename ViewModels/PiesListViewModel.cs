@@ -1,6 +1,6 @@
-﻿using BethanyPieShop.model;
-using System;
+﻿using System;
 using System.Collections.Generic;
+using BethanyPieShop.Models;
 using System.Linq;
 using System.Threading.Tasks;
 

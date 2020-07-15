@@ -4,7 +4,7 @@ using System.ComponentModel;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace BethanyPieShop.model
+namespace BethanyPieShop.Models
 {
     public class Pie
     {
@@ -26,5 +26,7 @@ namespace BethanyPieShop.model
         public int CategoryId { get; set; }
 
         public Category Category { get; set; }
+
+        public string Notes { get; set; }
     }
 }
